@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -49,8 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 =======
 # AluraStudies
 Estudos do dia
->>>>>>> 20ea047 (Initial commit)
-=======
-# AluraStudies
-Estudos do dia
->>>>>>> 20ea047 (Initial commit)
+
